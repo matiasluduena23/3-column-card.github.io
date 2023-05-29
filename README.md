@@ -15,8 +15,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Website](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/matiasluduena23/3-column-card.github.io)
+- Live Site URL: [Website](https://matiasluduena23.github.io/3-column-card.github.io/)
 
 
 ### Built with
